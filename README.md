@@ -15,6 +15,8 @@ Those are the filters uesd on the program.
 
 You can use keyboard shortcuts to run the filters live [X, Y, M, S, L, Q, +, -] or can use the switch button on the GUI.
 
+You can use this simple program to learn kids about computer vision filters 🫠.
+
 ## Screenshot
 
 ![Live edge detection for kids, CustomTkinter](https://github.com/melgoharyme/live-edge-detection/blob/main/demo.jpeg?raw=true)
