@@ -1,3 +1,6 @@
+> [!WARNING]  
+> THIS IS COLLEGE ASSIGNMENT.
+
 ## 🙊 Overview 🙊
 
 This simple project just focuses on applying some different edge detection filters to the video using `OpenCV` and `CustomTkinter`. You can change the filter type and adjust the blur level.
