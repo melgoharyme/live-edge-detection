@@ -3,7 +3,7 @@
 This simple project just focuses on applying some different edge detection filters to the video using `OpenCV` and `CustomTkinter`. You can change the filter type and adjust the blur level.
 
 > [!NOTE]  
-> You can use this simple program to learn kids about computer vision filters 🫠🫠🫠🫠🫠.
+> You can use this simple program to learn kids about computer vision filters 🫠🫠🫠🧑‍🍼🧑‍🍼.
 
 ## 🫵 Edge Detection Filters 🫵
 
