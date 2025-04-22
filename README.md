@@ -32,4 +32,4 @@ This project is **my little monster**, and only I can break it! 😈
 
 No pull requests. No help. Just vibes. 🧃
 
-![Live edge detection for kids, CustomTkinter](https://github.com/melgoharyme/live-edge-detection/blob/main/sticker_surprise_man.jpeg?raw=true)
+![Live edge detection for kids, CustomTkinter](https://github.com/melgoharyme/live-edge-detection/blob/main/sticker_surprise_man.png?raw=true)
