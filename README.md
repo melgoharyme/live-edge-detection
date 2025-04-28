@@ -24,7 +24,7 @@ Those are the filters uesd on the program.
 
 ## 🗿 Screenshot 🗿
 
-![Live edge detection for kids, CustomTkinter](https://github.com/melgoharyme/live-edge-detection/blob/main/demo.jpeg?raw=true)
+![Live edge detection for kids, CustomTkinter](https://github.com/melgoharyme/live-edge-detection/blob/main/demo_2.jpeg?raw=true)
 
 ## 🚫 Contributions 🚫
 
